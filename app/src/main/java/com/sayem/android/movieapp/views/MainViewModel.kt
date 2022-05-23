@@ -4,7 +4,7 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.kernello.commonlib.SingleEvent
-import com.sayem.android.movieapp.domain.Movie
+import com.sayem.android.movieapp.data.Movie
 import com.sayem.android.movieapp.base.Result
 import com.sayem.android.movieapp.domain.GetMovieDetails
 import com.sayem.android.movieapp.domain.GetMovies

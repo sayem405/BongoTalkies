@@ -7,9 +7,8 @@ import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions
-import com.sayem.android.movieapp.R
 import com.sayem.android.movieapp.base.ItemClickListener
-import com.sayem.android.movieapp.domain.Movie
+import com.sayem.android.movieapp.data.Movie
 import com.sayem.android.movieapp.databinding.ViewItemMovieBinding
 
 /**

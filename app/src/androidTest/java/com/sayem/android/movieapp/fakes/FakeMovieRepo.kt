@@ -2,7 +2,7 @@ package com.sayem.android.movieapp.fakes
 
 import android.content.res.Resources
 import com.sayem.android.movieapp.data.MovieRepo
-import com.sayem.android.movieapp.domain.Movie
+import com.sayem.android.movieapp.data.Movie
 
 /**
  * Created by Sayem on 5/23/2022

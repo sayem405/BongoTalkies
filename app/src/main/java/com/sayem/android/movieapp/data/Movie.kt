@@ -1,4 +1,4 @@
-package com.sayem.android.movieapp.domain
+package com.sayem.android.movieapp.data
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize

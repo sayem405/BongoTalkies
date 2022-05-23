@@ -8,12 +8,11 @@ import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import androidx.recyclerview.widget.GridLayoutManager
-import androidx.recyclerview.widget.RecyclerView
 import com.sayem.android.movieapp.base.EndlessRecyclerOnScrollListener
 import com.sayem.android.movieapp.base.ItemClickListener
 import com.sayem.android.movieapp.base.SpacesItemDecoration
 import com.sayem.android.movieapp.databinding.FragmentMovieListBinding
-import com.sayem.android.movieapp.domain.Movie
+import com.sayem.android.movieapp.data.Movie
 import com.sayem.android.movieapp.views.MainViewModel
 import dagger.hilt.android.AndroidEntryPoint
 

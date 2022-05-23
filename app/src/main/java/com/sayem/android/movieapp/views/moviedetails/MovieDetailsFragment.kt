@@ -17,7 +17,7 @@ import com.google.android.material.bottomsheet.BottomSheetDialog
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 import com.sayem.android.movieapp.base.Result
 import com.sayem.android.movieapp.databinding.FragmentMovieDetailsBinding
-import com.sayem.android.movieapp.domain.Movie
+import com.sayem.android.movieapp.data.Movie
 import com.sayem.android.movieapp.utils.format
 import com.sayem.android.movieapp.utils.getComaSeparatedString
 import com.sayem.android.movieapp.views.MainViewModel

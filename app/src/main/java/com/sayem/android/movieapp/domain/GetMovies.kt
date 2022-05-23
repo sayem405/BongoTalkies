@@ -5,6 +5,7 @@ import com.sayem.android.movieapp.data.MovieRepo
 import com.sayem.android.movieapp.base.Result
 import com.sayem.android.movieapp.base.AppDispatcher
 import com.sayem.android.movieapp.base.UseCase
+import com.sayem.android.movieapp.data.Movie
 import kotlinx.coroutines.withContext
 import java.lang.Exception
 import javax.inject.Inject

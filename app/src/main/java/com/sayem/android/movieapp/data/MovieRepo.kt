@@ -2,7 +2,6 @@ package com.sayem.android.movieapp.data
 
 import com.sayem.android.movieapp.data.network.MovieService
 import com.sayem.android.movieapp.data.network.ServerConstants
-import com.sayem.android.movieapp.domain.Movie
 import javax.inject.Inject
 
 /**

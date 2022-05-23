@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BongoTalkies</string>
+    <string name="website">WebSite</string>
+    <string name="release_date">Released Date</string>
+    <string name="tags">Tags</string>
+    <string name="genres">Genres</string>
+</resources>

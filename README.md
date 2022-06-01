@@ -2,6 +2,8 @@
 
 This app is a simple app which shows movies in a grid view and user can see movie details information by clicking movie preview
 
+[Watch the video](https://drive.google.com/file/d/142Du_6qPI6BZXiIygtkUL_rtMSJtKGYY/view?usp=sharing)
+
 It show cases MVVM architecture with addition domain layer. Layers are
  * data
  * domain
